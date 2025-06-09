@@ -19,7 +19,7 @@ N'hésitez pas à me contacter si mon profil vous intéresse !
 
 ## 🔗 Me retrouver ailleurs
 
-- 💼 [Mon profil LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/samuel-chevignard-912317303/))
+- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/samuel-chevignard-912317303/)
 
 ## Ce que vous trouverez sur ce GitHub
 
