@@ -4,7 +4,7 @@
 
 Je m'appelle **Samuel**, actuellement étudiant en **école d'ingénieur** à **l'ESIEA**, je suis passionné par les **technologies, les systèmes Linux, la cyber sécurité, l'électronique embarquée et le réseau**.
 
-D'un naturel **curieuse, autonome et perséverant**. Je tiens à comprendre en profondeur ce que je fais et j'aime mener des projets concrets de A à Z.
+D'un naturel **curieux, autonome et perséverant**. Je tiens à comprendre en profondeur ce que je fais et j'aime mener des projets concrets de A à Z.
 
 ## 🔍 En recherche d'alternance
 
